@@ -1,5 +1,5 @@
 # NLP
-
+* NLP from preprocessing text, embedding , training CNN/RNN, Configure HyperParameter
 This repository explores Natural Language Processing (NLP) in great detail. 
 Further details are provided below, `.ipynb` uses python package.
 
