@@ -22,4 +22,4 @@ Further details are provided below, `.ipynb` uses python package.
 
 
 # Usage
-Accompanying data files and additional utility scripts have been left out. The goal is rather to demonstrate experience and achievement.
+Accompanying data files and additional utility scripts have been left out. The goal is rather to demonstrate experience and achievements.
